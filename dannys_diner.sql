@@ -191,11 +191,4 @@ GROUP BY
 
 
 
--- Example Query:
-SELECT
-  	product_id,
-    product_name,
-    price
-FROM dannys_diner.menu
-ORDER BY price DESC
-LIMIT 5;
+
